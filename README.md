@@ -7,6 +7,7 @@ These are the publically available datasets
 Transformed sample images BoniRob dataset (upper images) and CWFID (lower images)
 
 ![image](https://github.com/iamrehanch/crops_and_weeds_semantic_segmentation/assets/44838063/fb2c832a-1bd1-448a-b240-ea7aadd98ba9)
+
 Sample images. (a) Reference image, (b) Target image, (c) transformed image
 
 
