@@ -14,4 +14,4 @@ Sample images : (a) reference images, (b) target image, (c) transformed image
 
 
 
-**For fair comparison proposed framework weights can be accessed by:**
+**For comparison proposed framework can be accessed by:**
